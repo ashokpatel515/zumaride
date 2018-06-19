@@ -1,0 +1,5 @@
+[15-Jul-2017 17:42:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/marvelwe/zumaride.com/wp-content/themes/zumaride/header.php on line 92
+[15-Jul-2017 17:42:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/marvelwe/zumaride.com/wp-content/themes/zumaride/header.php on line 92
+[15-Jul-2017 17:43:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/marvelwe/zumaride.com/wp-content/themes/zumaride/header.php on line 92
+[18-Jul-2017 09:52:32 UTC] PHP Parse error:  syntax error, unexpected 'zumaride' (T_STRING), expecting ',' or ')' in /home/marvelwe/zumaride.com/wp-content/themes/zumaride/template-parts/footer/site-info.php on line 13
+[18-Jul-2017 14:38:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/marvelwe/zumaride.com/wp-content/themes/zumaride/template-parts/footer/footer-widgets.php on line 30

@@ -1,0 +1,13 @@
+[14-Jul-2017 11:33:19 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[18-Jul-2017 15:11:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[18-Jul-2017 15:11:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[18-Jul-2017 15:11:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[18-Jul-2017 15:11:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[18-Jul-2017 15:11:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[18-Jul-2017 15:11:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[28-Jul-2017 08:34:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[28-Jul-2017 08:34:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[28-Jul-2017 08:34:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[28-Jul-2017 08:34:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[28-Jul-2017 08:34:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[28-Jul-2017 08:34:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/marvelwe/zumaride.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214

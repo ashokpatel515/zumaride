@@ -1,0 +1,8 @@
+[28-Nov-2017 16:30:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/marvelwe/zumaride.com/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/marvelwe/zumaride.com/wp-content/themes/twentyfifteen/404.php on line 10
+[01-Dec-2017 01:42:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/marvelwe/zumaride.com/wp-content/themes/twentyfifteen/functions.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/marvelwe/zumaride.com/wp-content/themes/twentyfifteen/functions.php on line 41
